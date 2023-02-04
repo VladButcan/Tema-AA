@@ -1,0 +1,35 @@
+RunTime result:
+Test 1: 0.014885000 seconds
+Test 2: 0.014509000 seconds
+Test 3: 0.014380000 seconds
+Test 4: 0.014413000 seconds
+Test 5: 0.014314000 seconds
+Test 6: 0.014245000 seconds
+Test 7: 0.014285000 seconds
+Test 8: 0.014287000 seconds
+Test 9: 0.014395000 seconds
+Test 10: 0.014578000 seconds
+Test 11: 0.014400000 seconds
+Test 12: 0.014258000 seconds
+Test 13: 0.014279000 seconds
+Test 14: 0.014628000 seconds
+Test 15: 0.014519000 seconds
+Test 16: 0.014373000 seconds
+Test 17: 0.014390000 seconds
+Test 18: 0.017708000 seconds
+Test 19: 0.021172000 seconds
+Test 20: 0.027321000 seconds
+Test 21: 0.016952001 seconds
+Test 22: 0.020608000 seconds
+Test 23: 0.015644001 seconds
+Test 24: 0.014547000 seconds
+Test 25: 0.014338000 seconds
+Test 26: 0.014306000 seconds
+Test 27: 0.014315000 seconds
+Test 28: 0.014339000 seconds
+Test 29: 0.014323000 seconds
+Test 30: 0.014461000 seconds
+
+Best runTime: 0.014245000
+Medium runTime: 0.015505735
+Worst runTime: 0.027321000
